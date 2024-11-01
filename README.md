@@ -19,7 +19,7 @@ I'm Ben, a 2nd year software engineering student at UNSW with a passion for soft
 Feel free to check out my projects and get in touch if you want to collaborate or chat about tech! 🚀
 
 ### 🛠 Skills I'm Improving
-- **Languages**: Rust, Python, C, C++
+- **Languages**: C, C++, Dafny
 - **Problem-Solving**: LeetCode challenges
 
 ### 💬 Let's Connect!
