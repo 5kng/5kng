@@ -1,6 +1,6 @@
 # Hi there! ✋
 
-I'm Ben, an undergraduate software engineering student at UNSW with a passion for software development and innovation. Welcome to my GitHub profile!
+I'm Ben, a 2nd year software engineering student at UNSW with a passion for software development and innovation. Welcome to my GitHub profile!
 
 ### 🌱 My Goals:
 - **Improve Coding Skills**: Currently working on coding challenges to build a strong foundation in data structures and algorithms.
