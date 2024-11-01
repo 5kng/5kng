@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @5kng
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me https://www.linkedin.com/in/5ben/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: In a running phase
+# Hi there! ✋
 
-<!---
-5kng/5kng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Ben, an undergraduate software engineering student at UNSW with a passion for software development and innovation. Welcome to my GitHub profile!
+
+### 🌱 My Goals:
+- **Improve Coding Skills**: Currently working on coding challenges to build a strong foundation in data structures and algorithms.
+- **Build a Portfolio of Projects**: Create a diverse set of projects to showcase my skills.
+- **Run a Half Marathon**: Training to build endurance and achieve a personal fitness milestone.
+
+### 🤖 What I'm Working On:
+- **Pokémon Battle Simulator**: A fun group project to practice object-oriented programming.
+- **Learning C++**: Exploring C++ for systems programming.
+
+### 🌎 Interests
+- **Software Engineering**: Building scalable software systems.
+- **Formal Methods**: Learning Dafny and Hoare logic.
+- **Running**: Training for a half marathon and staying active.
+
+Feel free to check out my projects and get in touch if you want to collaborate or chat about tech! 🚀
+
+### 🛠 Skills I'm Improving
+- **Languages**: Rust, Python, C, C++
+- **Problem-Solving**: LeetCode challenges
+
+### 💬 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/your-profile/)
+
+Thanks for stopping by! 👋
