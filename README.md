@@ -23,4 +23,4 @@ Feel free to check out my projects and get in touch if you want to collaborate o
 - **Problem-Solving**: LeetCode challenges
 
 ### 💬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- [LinkedIn](https://www.linkedin.com/in/5ben/)
