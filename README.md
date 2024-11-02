@@ -1,4 +1,4 @@
-# Hi there! ✋
+# Hi there! 👋
 
 I'm Ben, a 2nd year software engineering student at UNSW with a passion for software development and innovation. Welcome to my GitHub profile!
 
