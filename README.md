@@ -24,3 +24,5 @@ Feel free to check out my projects and get in touch if you want to collaborate o
 
 ### 💬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/5ben/)
+
+![](https://leetcard.5ben/5ben?ext=activity)
