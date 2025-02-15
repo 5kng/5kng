@@ -10,11 +10,6 @@ I'm Ben, a 2nd year software engineering student at UNSW with a passion for soft
 ### 🤖 What I'm Working On:
 - **Pokémon Battle Simulator**: A fun group project to practice object-oriented programming.
 - **Learning C++**: Exploring C++ for future projects.
-  
-### 🌎 Interests
-- **Software Engineering**: Building scalable software systems.
-- **Formal Methods**: Learning Dafny and Hoare logic.
-- **Running**: Training for a half marathon and staying active.
 
 Feel free to check out my projects and get in touch if you want to collaborate or chat about tech! 🚀
 
