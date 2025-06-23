@@ -34,7 +34,6 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=5kng&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5kng&layout=compact&theme=radical&hide=makefile)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/5ben?theme=dark&font=baloo&ext=contest)](https://leetcode.com/5ben)
 
 ### 🤝 Let's Connect!
 
