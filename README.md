@@ -26,7 +26,8 @@
 ### 🎯 2025 Goals
 
 - ✅ Finish a Half Marathon (HOKA Ruanway)
-- ⏳ Learn low-level concurrency in C++  
+- ⏳ Finish the pokemon battle simulator
+- ⏳ Learn operating systems 
 - ⏳ Build my own LRU Cache
 - ⏳ Solve neetcode 150
 
