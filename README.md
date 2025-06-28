@@ -20,7 +20,7 @@
 
 ### 🧪 Projects
 
-- **Pokémon Battle Simulator**: Full turn-based combat simulator using C++, RapidJSON, and CLI
+- **Pokémon Battle Simulator**: C++17 turn-based combat engine with nlohmann/json, CMake, and comprehensive battle mechanics (status conditions, STAB, critical hits, type effectiveness)
 - **Despatch Advice Platform**: Node.js + React SaaS for automating invoice & order processing (nominated for Macquarie Industry Prize 2025)
 
 ### 🎯 2025 Goals
