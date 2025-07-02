@@ -11,6 +11,7 @@
 
 ### 💻 Languages & Technologies
 
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
@@ -26,15 +27,36 @@
 ### 🎯 2025 Goals
 
 - ✅ Finish a Half Marathon (HOKA Ruanway)
-- ⏳ Finish the pokemon battle simulator
+- ⏳ Finish the pokemon battle simulator (In progress!)
 - ⏳ Learn operating systems 
-- ⏳ Build my own LRU Cache
-- ⏳ Solve neetcode 150
+- ⏳ Build my own CHIP-8 emulator
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=5kng&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5kng&layout=compact&theme=radical&hide=makefile)
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=5kng&theme=react"
+    alt="Total Contributions"
+    width="460"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=5kng&show_icons=true&theme=react"
+    alt="Ben King's GitHub Stats"
+    width="460"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=5kng&layout=compact&theme=react"
+    alt="Most Used Languages"
+    width="460"
+  />
+</p>
+
 
 ### 🤝 Let's Connect!
 
