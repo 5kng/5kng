@@ -22,22 +22,6 @@
 
 <p align="center"><hr width="80%" /></p>
 
-### 🧪 Projects
-- **Pokémon Battle Simulator**  
-  C++17 turn-based combat engine with nlohmann/json, CMake, and comprehensive battle mechanics.  
-- **Despatch Advice Platform**  
-  Node.js + React SaaS for automating invoice & order processing (nominated for Macquarie Industry Prize 2025).
-
-<p align="center"><hr width="80%" /></p>
-
-### 🎯 2025 Goals
-- ✅ Finish a Half Marathon (HOKA Ruanway)  
-- ⏳ Finish the Pokémon Battle Simulator (In progress!)  
-- ⏳ Learn operating systems  
-- ⏳ Build my own CHIP-8 emulator
-
-<p align="center"><hr width="80%" /></p>
-
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=5kng&theme=react" alt="Total Contributions" width="460" /><br>
@@ -58,4 +42,4 @@
 </p>
 
 ⭐ _Currently diving into system validation, testing strategies, and writing clean, reliable code with a focus on quality assurance._  
-_Last updated: July 2nd, 2025_
+_Last updated: July 9th, 2025_
