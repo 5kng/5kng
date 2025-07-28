@@ -1,45 +1,46 @@
-# 👋 Hi there, I'm Ben!
+# Hi, I'm Ben! 🦇
 
-<p align="center"><hr width="80%" /></p>
+🧑‍🎓 Software Engineering Student at UNSW  
+💻 Software Engineering Vacation Student at Glencore  
 
-### 🚀 About Me
-- 🎓 3rd-year Software Engineering student at UNSW (prev. at Macquarie)  
-- 🏭 Software Engineering Vacation Student @ Glencore  
-- 🤖 C++ Robotics Developer @ UNSW MINEX  
-- 🧠 Passionate about low-level systems, clean architecture, and writing efficient C++
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-benkinq-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/benkinq)
+[![GitHub](https://img.shields.io/badge/GitHub-5kng-black?style=flat-square&logo=github)](https://github.com/5kng)
 
-<p align="center"><hr width="80%" /></p>
+---
 
-### 💻 Languages & Technologies
-<p align="center">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
+### 🧠 A little more about me...
 
-<p align="center"><hr width="80%" /></p>
+```cpp
+const ben = {
+  pronouns: "he" | "him",
+  code: ["C++", "Python", "Java"],
+  tools: ["gtest", "Docker", "Linux", "Git", "VSCode", "gdb", "Valgrind", "CMake"],
+  focus: ["low latency", "high performance", "low-level systems","modern design","concurrency"]
+  reading: "C++ Primer 📘",
+  interests: "Ironman in training 🏊‍♂️🚴‍♂️🏃‍♂️",
+}
+```
+---
 
-### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=5kng&theme=react" alt="Total Contributions" width="460" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=5kng&show_icons=true&theme=react" alt="GitHub Stats" width="460" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5kng&layout=compact&theme=react" alt="Most Used Languages" width="460" />
+
+<table>
+  <tr>
+    <td><img src="https://streak-stats.demolab.com/?user=5kng&theme=react" alt="Total Contributions" width="460"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=5kng&show_icons=true&theme=react" alt="GitHub Stats" width="460"/></td>
+  </tr>
+</table>
+
 </div>
 
-<p align="center"><hr width="80%" /></p>
+---
 
-### 🤝 Let's Connect!
-<p align="center">
-  <a href="https://linkedin.com/in/benkinq">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kingbenja5@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### 🧪 Featured Project
 
-⭐ _Currently diving into system validation, testing strategies, and writing clean, reliable code with a focus on quality assurance._  
-_Last updated: July 9th, 2025_
+Check out my C++ Pokémon Battle Simulator — a modular, performant battle engine with modern C++ design.
+
+→ [View the repo](https://github.com/5kng/pokemon-battle-simulator)
+
+
+💬 Feel free to reach out and say hi!
