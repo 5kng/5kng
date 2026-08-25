@@ -16,7 +16,6 @@ const ben = {
   code: ["C++", "Python", "Java"],
   tools: ["gtest", "Docker", "Linux", "Git", "VSCode", "gdb", "Valgrind", "CMake"],
   reading: "Algorithm Design Manual 📘",
-  interests: "Ironman in training 🏊‍♂️🚴‍♂️🏃‍♂️",
 }
 ```
 ---
